@@ -43,7 +43,7 @@ Go to the directory of the app you have cloned, and edit `config.json` file in t
 Change `model` to the string of your word2vec model path. 
 If you are using a fasttext word2vec model, change `fasttext` to `true`. Note that model path for fasttext models should be `*.vec` file instead of `*.bin` file.
 
-If you don't have your own word2vec model, please refer to section [Pre-trained word2vec models](#Pre-trained word2vec models) for downloading pre-trained word2vec models from the internet. 
+If you don't have your own word2vec model, please refer to section [Pre-trained word2vec models](#Pre-trained) for downloading pre-trained word2vec models from the internet. 
 
 
 If you need debugging, change `debug` to `true`.
