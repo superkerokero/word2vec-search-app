@@ -1,0 +1,5 @@
+{
+    "model": "models/word2vec.gensim.model",
+    "fasttext": false,
+    "debug": true
+}
